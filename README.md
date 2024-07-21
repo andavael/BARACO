@@ -18,7 +18,8 @@
 
 
 ## <a id = "proj_overview"> 🚍 Project Overview </a> 
-<br> The BARACO application is crafted to transform the travel experience in Batangas City by providing a powerful and intuitive tool for managing the railway system. It is designed to simplify fare calculations, streamline route selection, and facilitate seamless card top-ups. By offering user-friendly features and efficient functionalities, the application aims to greatly enhance the convenience and efficiency of travel for both train conductors and passengers. Its goal is to make the commuting experience smoother, more organized, and highly accessible.
+The BARACO application is crafted to transform the travel experience in Batangas City by providing a powerful and intuitive tool for managing the railway system. It is designed to simplify fare calculations, streamline route selection, and facilitate seamless card top-ups. By offering user-friendly features and efficient functionalities, the application aims to greatly enhance the convenience and efficiency of travel for both train conductors and passengers. Its goal is to make the commuting experience smoother, more organized, and highly accessible.
+<br>
 </br>
 
 
