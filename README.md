@@ -4,7 +4,14 @@
   </a>
 </p>
 
-<h1 style="color:blue;">BARACO (Batangas Railway Corporation)</h1>
+# BARACO (Batangas Railway Corportation)
+<br> Batangas Railway Corporation (BARACO) aims to improve the land transportation system in Batangas. A C++ program will be created and tested to help train conductors calculate passenger ticket fares. This program will operate through a console (DIPA SURE) interface, streamlining fare management and enhancing efficiency.
 <br>
-Batangas Railway Corporation (BARACO) aims to improve the land transportation system in Batangas. A C++ program will be created and tested to help train conductors calculate passenger ticket fares. This program will operate through a console (DIPA SURE) interface, streamlining fare management and enhancing efficiency.
-<br>
+
+## Summary of Sections
+
+## <a id = "proj_overview"> 🎯 Project Overview </a> 
+## <a id = "prof_deliverables"> 🎯 Project Deliverables </a> 
+## <a id = "tech_framework"> 🎯 Technical Solution Framework </a> 
+## <a id = "use_guidelines"> 🎯 Usage Guidelines </a> 
+## <a id = "proj_developers"> 🎯 Project Developers </a> 
