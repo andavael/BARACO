@@ -15,8 +15,8 @@
 -  [4. Usage Guidelines](#use_guidelines) 
 -  [5. Project Developers](#proj_developers) 
 
-## <a id = "proj_overview"> 🎯 Project Overview </a> 
-## <a id = "prof_deliverables"> 🎯 Project Deliverables </a> 
-## <a id = "tech_framework"> 🎯 Technical Solution Framework </a> 
-## <a id = "use_guidelines"> 🎯 Usage Guidelines </a> 
-## <a id = "proj_developers"> 🎯 Project Developers </a> 
+## <a id = "proj_overview"> 🚍 Project Overview </a> 
+## <a id = "prof_deliverables"> 🚍 Project Deliverables </a> 
+## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
+## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
+## <a id = "proj_developers"> 🚍 Project Developers </a> 
