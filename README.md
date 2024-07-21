@@ -48,11 +48,6 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 <br>
 </br>
 
-
-## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
-<br>
-</br>
-
 ## <a id="use_guidelines"> 🚍 Usage Guidelines </a>
 
 Below are the key features of the BARACO application:
@@ -65,19 +60,21 @@ Below are the key features of the BARACO application:
 
 ### User Menu
 1. **View BARACO Stations**
-> Prints a list of BARACO stations.
+  > Prints a list of BARACO stations.
 3. **Search BARACO Routes (TBA)**
-> Print a list of BARACO routes.
+  > Print a list of BARACO routes.
 5. **Top-up BARACO Card**
-> Add funds to your BARACO card.
+  > Add funds to your BARACO card.
 7. **Select Route**
-> Books a route.
+  > Books a route.
 9. **Add Route to Favorites (TBA)**
-> Save routes to favorites.
+  > Save routes to favorites.
 12. **Remove Route from Favorites (TBA)**
-> Remove routes from favorites.
+  > Remove routes from favorites.
+<br>
+</br>
 
-For more details, refer to the application’s help section.
+## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
 <br>
 </br>
 
