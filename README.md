@@ -62,7 +62,7 @@ Below are the key features of the BARACO application:
 1. **View BARACO Stations**
    > Prints a list of BARACO stations.
 2. **Search BARACO Routes (TBA)**
-   > Print a list of BARACO routes.
+   > Prints a list of BARACO routes.
 3. **Top-up BARACO Card**
    > Add funds to your BARACO card.
 4. **Select Route**
