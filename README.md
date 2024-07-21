@@ -1,2 +1,3 @@
-# BARACO
-![ARACO (5)](https://github.com/user-attachments/assets/a9ede06f-bda0-4c8a-a750-d7155d3f61c9)
+<p align = "center">
+  <img src = "BARACO_card.png" width = "300" height = "300" alt="LogoInsert"> 
+</p>
