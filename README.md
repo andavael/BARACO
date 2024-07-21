@@ -35,7 +35,6 @@ The BARACO project aims to enhance public transportation in Batangas with a new 
 1. **Establishment of Five Stations:**
    - **Locations:** Batangas City, Ibaan, Rosario, San Juan, and Lobo.
    - **Purpose:** To evaluate the system’s impact on commuter convenience and efficiency.
-   > 9th Industry, Innovation and Infrastracture <br>
 
 2. **Improved Commuting Experience:**
    - **Objective:** Provide a faster, more efficient, and extensive transportation option for travelers to and from distant regions in Batangas.
