@@ -43,35 +43,36 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 
 ## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
-## <a id="proj_developers"> 🚍 Project Developers </a> 
 
-<table style="width:100%; border-collapse:collapse; background-color:#f9f9f9; border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1); max-width:800px; margin:auto;">
+## <a id="proj_developers"> 🚍 Project Developers </a>
+<table>
   <thead>
-    <tr style="background-color:#007bff; color:white;">
-      <th style="padding:10px; text-align:left;">Name</th>
-      <th style="padding:10px; text-align:left;">Role</th>
-      <th style="padding:10px; text-align:left;">E-mail</th>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>E-mail</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom:1px solid #ddd;">
-      <td style="padding:10px;"><a href="https://github.com/DanielleZiac" target="_blank" style="color:#007bff; text-decoration:none;">Danielle Ziac Abril</a></td>
-      <td style="padding:10px;">Developer</td>
-      <td style="padding:10px;">danielle.abrilx@gmail.com</td>
-    </tr>
-    <tr style="border-bottom:1px solid #ddd;">
-      <td style="padding:10px;"><a href="https://github.com/LanceAndrei04" target="_blank" style="color:#007bff; text-decoration:none;">Lance Andrei Espina</a></td>
-      <td style="padding:10px;">Developer</td>
-      <td style="padding:10px;">lanceandrei.espina30@gmail.com</td>
-    </tr>
-    <tr style="border-bottom:1px solid #ddd;">
-      <td style="padding:10px;"><a href="https://github.com/AeronEvangelista" target="_blank" style="color:#007bff; text-decoration:none;">Aeron Evangelista</a></td>
-      <td style="padding:10px;">Developer</td>
-      <td style="padding:10px;">mr.aeronevangelista@gmail.com</td>
+    <tr>
+      <td><a href="https://github.com/DanielleZiac" target="_blank">Danielle Ziac Abril</a></td>
+      <td>Developer</td>
+      <td>danielle.abrilx@gmail.com</td>
     </tr>
     <tr>
-      <td style="padding:10px;"><a href="https://github.com/MarkWilhelmTrevor" target="_blank" style="color:#007bff; text-decoration:none;">Mark Wilhelm Trevor Marcos</a></td>
-      <td style="padding:10px;">Developer</td>
-      <td style="padding:10px;">markwilhelmtrevormarcos020304@gmail.com</td>
+      <td><a href="https://github.com/LanceAndrei04" target="_blank">Lance Andrei Espina</a></td>
+      <td>Developer</td>
+      <td>lanceandrei.espina30@gmail.com</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AeronEvangelista" target="_blank">Aeron Evangelista</a></td>
+      <td>Developer</td>
+      <td>mr.aeronevangelista@gmail.com</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MarkWilhelmTrevor" target="_blank">Mark Wilhelm Trevor Marcos</a></td>
+      <td>Developer</td>
+      <td>markwilhelmtrevormarcos020304@gmail.com</td>
     </tr>
   </tbody>
+</table>
