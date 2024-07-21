@@ -26,6 +26,7 @@
 
 The BARACO project aims to enhance public transportation in Batangas with a new railway system. The key deliverables for the initial phase are:
 
+
 1. **Establishment of Five Stations:**
    - **Locations:** Batangas City, Ibaan, Rosario, San Juan, and Lobo.
    - **Purpose:** To evaluate the system’s impact on commuter convenience and efficiency.
