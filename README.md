@@ -55,22 +55,22 @@ Below are the key features of the BARACO application:
 ### Main Menu
 1. **Activate BARACO Card**
    > Sign up for a new BARACO card.
-3. **Open BARACO Card**
+2. **Open BARACO Card**
    > Log in to your existing BARACO card.
 
 ### User Menu
 1. **View BARACO Stations**
-  > Prints a list of BARACO stations.
-3. **Search BARACO Routes (TBA)**
-  > Print a list of BARACO routes.
-5. **Top-up BARACO Card**
-  > Add funds to your BARACO card.
-7. **Select Route**
-  > Books a route.
-9. **Add Route to Favorites (TBA)**
-  > Save routes to favorites.
-12. **Remove Route from Favorites (TBA)**
-  > Remove routes from favorites.
+   > Prints a list of BARACO stations.
+2. **Search BARACO Routes (TBA)**
+   > Print a list of BARACO routes.
+3. **Top-up BARACO Card**
+   > Add funds to your BARACO card.
+4. **Select Route**
+   > Books a route.
+5. **Add Route to Favorites (TBA)**
+    > Save routes to favorites.
+6. **Remove Route from Favorites (TBA)**
+    > Remove routes from favorites.
 <br>
 </br>
 
