@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/user-attachments/assets/47c4e705-546d-4d32-8d64-8fa82fbdcad7">
-    <img src="BARACO.png" alt="BARACO Video" width=600" />
+    <img src="BARACO.png" alt="BARACO Video" width=500" />
   </a>
 </p>
 
