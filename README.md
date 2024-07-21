@@ -57,28 +57,28 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
   </thead>
   <tbody>
     <tr>
-      <td><img src="images/danielle_ziac.jpg" alt="Danielle Ziac Abril" width="50" style="border-radius:50%;"></td>
-      <td><a href="https://github.com/DanielleZiac" target="_blank">Danielle Ziac Abril</a></td>
+      <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
+      <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>danielle.abrilx@gmail.com</td>
+      <td>andavael05@gmail.com</td>
     </tr>
     <tr>
-      <td><img src="images/lance_andrei.jpg" alt="Lance Andrei Espina" width="50" style="border-radius:50%;"></td>
-      <td><a href="https://github.com/LanceAndrei04" target="_blank">Lance Andrei Espina</a></td>
+      <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
+      <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>lanceandrei.espina30@gmail.com</td>
+      <td>andavael05@gmail.com</td>
     </tr>
     <tr>
-      <td><img src="images/aeron_evangelista.jpg" alt="Aeron Evangelista" width="50" style="border-radius:50%;"></td>
-      <td><a href="https://github.com/AeronEvangelista" target="_blank">Aeron Evangelista</a></td>
+      <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
+      <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>mr.aeronevangelista@gmail.com</td>
+      <td>andavael05@gmail.com</td>
     </tr>
     <tr>
-      <td><img src="images/mark_wilhelm.jpg" alt="Mark Wilhelm Trevor Marcos" width="50" style="border-radius:50%;"></td>
-      <td><a href="https://github.com/MarkWilhelmTrevor" target="_blank">Mark Wilhelm Trevor Marcos</a></td>
+      <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
+      <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>markwilhelmtrevormarcos020304@gmail.com</td>
+      <td>andavael05@gmail.com</td>
     </tr>
   </tbody>
 </table>
