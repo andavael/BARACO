@@ -1,2 +1,3 @@
 # BARACO
-https://github.com/user-attachments/assets/59d98607-e769-465c-b45e-db7a7c3283a8
+![ARACO (3)](https://github.com/user-attachments/assets/6f776eed-ec9e-47a2-b91a-0336f1500e9d)
+
