@@ -9,6 +9,11 @@
 <br>
 
 ## Summary of Sections
+-  [1. Project Overview](#proj_overview)
+-  [2. Project Deliverables](#prof_deliverables)
+-  [3. Technical Solution Framewor](#tech_framework)
+-  [4. Usage Guidelines](#use_guidelines) 
+-  [5. Project Developers](#proj_developers) 
 
 ## <a id = "proj_overview"> 🎯 Project Overview </a> 
 ## <a id = "prof_deliverables"> 🎯 Project Deliverables </a> 
