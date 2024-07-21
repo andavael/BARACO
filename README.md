@@ -60,7 +60,6 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 ## <a id="proj_developers"> 🚍 Project Developers </a>
 The talented team behind the BARACO project consists of first-year BS Computer Science students. Their skills and dedication have been instrumental in the success of the project. Their enthusiasm and hard work have played a key role in developing and refining the application.
 
-Below are the key contributors to the project, along with their roles and contact information.
 <table>
   <thead>
     <tr>
@@ -75,25 +74,25 @@ Below are the key contributors to the project, along with their roles and contac
       <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
       <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>andavael05@gmail.com</td>
+      <td><a href="mailto:andavael05@gmail.com">andavael05@gmail.com</a></td>
     </tr>
     <tr>
       <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
       <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>andavael05@gmail.com</td>
+      <td><a href="mailto:andavael05@gmail.com">andavael05@gmail.com</a></td>
     </tr>
     <tr>
       <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
       <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>andavael05@gmail.com</td>
+      <td><a href="mailto:andavael05@gmail.com">andavael05@gmail.com</a></td>
     </tr>
     <tr>
       <td><img src="Anda.jpg" alt="Anthonina Dhapniella C. Vael" width="50" style="border-radius:50%;"></td>
       <td><a href="https://github.com/andavael" target="_blank">Anthonina Dhapniella C. Vael</a></td>
       <td>Developer</td>
-      <td>andavael05@gmail.com</td>
+      <td><a href="mailto:andavael05@gmail.com">andavael05@gmail.com</a></td>
     </tr>
   </tbody>
 </table>
