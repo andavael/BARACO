@@ -58,7 +58,9 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 </br>
 
 ## <a id="proj_developers"> 🚍 Project Developers </a>
-The talented team behind the BARACO project consists of first-year BS Computer Science students. Their skills and dedication have been instrumental in the success of the project. Their enthusiasm and hard work have played a key role in developing and refining the application.
+The BARACO project is proudly developed by a team of highly skilled first-year BS Computer Science students. Their diligence and enthusiasm have been instrumental in both the development and continuous enhancement of the application.
+
+Below is a table highlighting the key contributors to the project, along with their roles and contact information:
 
 <table>
   <thead>
