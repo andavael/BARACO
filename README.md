@@ -43,10 +43,9 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 
 ## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
-## <a id = "proj_developers"> 🚍 Project Developers </a> 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:8px; border:1px solid #ddd; box-shadow:0 4px 8px rgba(0,0,0,0.1); max-width:800px; margin:auto;">
+## <a id="proj_developers"> 🚍 Project Developers </a> 
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse; background-color:#f9f9f9; border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1); max-width:800px; margin:auto;">
   <thead>
     <tr style="background-color:#007bff; color:white;">
       <th style="padding:10px; text-align:left;">Name</th>
@@ -76,6 +75,3 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
       <td style="padding:10px;">markwilhelmtrevormarcos020304@gmail.com</td>
     </tr>
   </tbody>
-</table>
-
-</div>
