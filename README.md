@@ -53,7 +53,31 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 <br>
 </br>
 
-## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
+## <a id="use_guidelines"> 🚍 Usage Guidelines </a>
+
+Below are the key features of the BARACO application:
+
+### Main Menu
+1. **Activate BARACO Card**
+   > Sign up for a new BARACO card.
+3. **Open BARACO Card**
+   > Log in to your existing BARACO card.
+
+### User Menu
+1. **View BARACO Stations**
+> Prints a list of BARACO stations.
+3. **Search BARACO Routes (TBA)**
+> Print a list of BARACO routes.
+5. **Top-up BARACO Card**
+> Add funds to your BARACO card.
+7. **Select Route**
+> Books a route.
+9. **Add Route to Favorites (TBA)**
+> Save routes to favorites.
+12. **Remove Route from Favorites (TBA)**
+> Remove routes from favorites.
+
+For more details, refer to the application’s help section.
 <br>
 </br>
 
