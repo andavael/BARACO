@@ -22,10 +22,11 @@
 </br>
 
 
-## <a id="prof_deliverables"> 🚍 Project Deliverables </a>
+### <a id="prof_deliverables"> 🚍 Project Deliverables </a>
+
+<div style="background-color:#f0f8ff; padding:10px; border-radius:5px;">
 
 The BARACO project aims to enhance public transportation in Batangas with a new railway system. The key deliverables for the initial phase are:
-
 
 1. **Establishment of Five Stations:**
    - **Locations:** Batangas City, Ibaan, Rosario, San Juan, and Lobo.
@@ -40,6 +41,9 @@ The BARACO project aims to enhance public transportation in Batangas with a new 
    - **SDG 11:** Develop sustainable cities and communities.
 
 These deliverables are designed to offer immediate benefits and lay the groundwork for future expansion and enhancement of the transportation network in Batangas.
+
+</div>
+
 
 ## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
