@@ -5,7 +5,8 @@
 </p>
 
 # BARACO (Batangas Railway Corportation)
-<br> Batangas Railway Corporation (BARACO) is a C++ program developed to enhance the convenience of travel for both train conductors and passengers in Batangas City. This program will operate through a console (DIPA SURE) interface, streamlining fare management and enhancing efficiency.
+Batangas Railway Corporation (BARACO) is a C++ program developed to enhance the convenience of travel for both train conductors and passengers in Batangas City. This program will operate through a console (DIPA SURE) interface, streamlining fare management and enhancing efficiency.
+<br>
 </br>
 
 
@@ -14,7 +15,9 @@
 -  [2. Project Deliverables](#prof_deliverables)
 -  [3. Technical Solution Framewor](#tech_framework)
 -  [4. Usage Guidelines](#use_guidelines) 
--  [5. Project Developers](#proj_developers) 
+-  [5. Project Developers](#proj_developers)
+<br>
+</br>
 
 
 ## <a id = "proj_overview"> 🚍 Project Overview </a> 
@@ -43,10 +46,17 @@ The BARACO project aims to enhance public transportation in Batangas with a new 
    - **SDG 11:** Develop sustainable cities and communities.
 
 These deliverables are designed to offer immediate benefits and lay the groundwork for future expansion and enhancement of the transportation network in Batangas.
+<br>
+</br>
 
 
 ## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
+<br>
+</br>
+
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
+<br>
+</br>
 
 ## <a id="proj_developers"> 🚍 Project Developers </a>
 The talented team behind the BARACO project consists of first-year BS Computer Science students. Their skills and dedication have been instrumental in the success of the project. Their enthusiasm and hard work have played a key role in developing and refining the application.
@@ -88,3 +98,6 @@ Below are the key contributors to the project, along with their roles and contac
     </tr>
   </tbody>
 </table>
+
+<br>
+</br>
