@@ -4,8 +4,7 @@
   </a>
 </p>
 
-# BARACO 
-## (Batangas Railway Corportation)
+# BARACO (Batangas Railway Corportation)
 <br> Batangas Railway Corporation (BARACO) is a C++ program developed to enhance the convenience of travel for both train conductors and passengers in Batangas City. This program will operate through a console (DIPA SURE) interface, streamlining fare management and enhancing efficiency.
 </br>
 
@@ -23,7 +22,24 @@
 </br>
 
 
-## <a id = "prof_deliverables"> 🚍 Project Deliverables </a> 
+## <a id="prof_deliverables"> 🚍 Project Deliverables </a>
+
+The BARACO project aims to enhance public transportation in Batangas with a new railway system. The key deliverables for the initial phase are:
+
+1. **Establishment of Five Stations:**
+   - **Locations:** Batangas City, Ibaan, Rosario, San Juan, and Lobo.
+   - **Purpose:** To evaluate the system’s impact on commuter convenience and efficiency.
+
+2. **Improved Commuting Experience:**
+   - **Objective:** Provide a faster, more efficient, and extensive transportation option for travelers to and from distant regions in Batangas.
+
+3. **Contribution to Sustainable Development Goals (SDGs):**
+   - **SDG 8:** Promote decent work and economic growth.
+   - **SDG 9:** Advance industry, innovation, and infrastructure.
+   - **SDG 11:** Develop sustainable cities and communities.
+
+These deliverables are designed to offer immediate benefits and lay the groundwork for future expansion and enhancement of the transportation network in Batangas.
+
 ## <a id = "tech_framework"> 🚍 Technical Solution Framework </a> 
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
 ## <a id = "proj_developers"> 🚍 Project Developers </a> 
