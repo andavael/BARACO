@@ -1,6 +1,6 @@
 <p align="center">
   <a href="BARACO_vid.mp4">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/default.jpg" alt="BARACO Video" width="300" />
+    <img src="BARACO_vid.mp4" alt="BARACO Video" width="300" />
   </a>
 </p>
 
