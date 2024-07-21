@@ -45,7 +45,9 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 ## <a id = "use_guidelines"> 🚍 Usage Guidelines </a> 
 
 ## <a id="proj_developers"> 🚍 Project Developers </a>
+Introducing the first-year BS Computer Science students behind the BARACO project. Their dedication and efforts have been vital to the development of this application.
 
+Below are the key contributors and their roles.
 <table>
   <thead>
     <tr>
