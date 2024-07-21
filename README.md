@@ -49,7 +49,7 @@ These deliverables are designed to offer immediate benefits and lay the groundwo
 <table>
   <thead>
     <tr>
-      <th>Photo</th>
+      <th></th>
       <th>Name</th>
       <th>Role</th>
       <th>E-mail</th>
